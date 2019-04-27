@@ -1,0 +1,56 @@
+
+{
+  "TRMM-RT": {
+    'id': 1,
+    "ftpserver": '',
+    "port": 21,
+    "usrname": '',
+    "password": '',
+    "suffix": '.bin'
+  },
+
+  "TRMM-V7": {
+    'id': 2,
+    "ftpserver": '',
+    "port": 21,
+    "usrname": '',
+    "password": '',
+    "suffix": '.hdf'
+  },
+
+  "CMORPH": {
+    'id': 3,
+    "ftpserver": "ftp.cpc.ncep.noaa.gov",
+    "port": 21,
+    "usrname": '',
+    "password": '',
+    "suffix": ''
+  },
+
+  "PERSSIAN": {
+    'id': 4,
+    "ftpserver": "persiann.eng.uci.edu",
+    "port": 21,
+    "usrname": '',
+    "password": '',
+    "suffix": ''
+  },
+
+  "IMERG": {
+    "id": 5,
+    "ftpserver": 'jsimpson.pps.eosdis.nasa.gov',
+    "port": 21,
+    "usrname": 'zengsk1010@gmail.com',
+    "password": 'zengsk1010@gmail.com',
+    "suffix": '.RT-H5'
+  },
+
+  "GSMaP": {
+    "id": 6,
+    "ftpserver": 'hokusai.eorc.jaxa.jp',
+    "port": 21,
+    "usrname": 'rainmap',
+    "password": 'Niskur+1404',
+    "suffix": '.dat'
+  }
+}

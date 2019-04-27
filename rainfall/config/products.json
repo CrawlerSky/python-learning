@@ -1,0 +1,33 @@
+
+
+{
+  "TRMM-RT": {
+    "id": 1,
+    "suffix": ".bin"
+    },
+
+  "TRMM-V7": {
+    "id": 2,
+    "suffix": ".hdf"
+    },
+
+  "CMORPH": {
+    "id": 3,
+    "suffix": ""
+    },
+
+  "PERSSIAN": {
+    "id": 4,
+    "suffix": ""
+    },
+
+  "IMERG": {
+    "id": 5,
+    "suffix": ".RT-H5"
+  },
+
+  "GSMaP": {
+    "id": 6,
+    "suffix": ".dat"
+  }
+}
