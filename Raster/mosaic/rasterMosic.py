@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/2/26 16:02
+# @Time    : 2019/5/17 22:57
 # @Author  : zengsk in HoHai
-# @File    : func_libs.py
-
+# @File    : rasterMosic.py
 
 
